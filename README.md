@@ -14,10 +14,11 @@ return 0;
 
 ```
 
-#Autor
+# Autor
+---
 Isabel Gonzalez Marquez
 
-![Imagen](imagenpractica.jpg)
+![Imagen](imagenpractica.png)
 
 
 
